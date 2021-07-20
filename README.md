@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ##deployment
 for comparison purpose
-im changing it for testing
+im changing it for testing.
 
 ## Purpose
 updating this file
